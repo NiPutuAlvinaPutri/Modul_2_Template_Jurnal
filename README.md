@@ -1,1 +1,2 @@
-# Modul_2_Template_Jurnal
+# Modul 2
+# Spesifikasi dan Equalisasi
